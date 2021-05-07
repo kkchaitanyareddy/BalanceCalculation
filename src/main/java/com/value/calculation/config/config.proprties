@@ -1,8 +1,7 @@
-url = https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles_9292c6cb7b394d30b2467b8f631090a7
+url = https://www.exercise1.com/values 
 username = valueuser
 password = valuepassword
 browser = chrome
-labelvalues=//a[@id='dealTitle']
-individual_txtvalues=//span[@class='gb-font-size-medium inlineBlock unitLineHeight dealPriceText']
-Total_Txtvalues=(//div[@class='a-row priceBlock unitLineHeight'])[3]
-
+labelvalues=/*[@label='lbl_val']
+individual_txtvalues=//*[@label='txt_val']
+Total_Txtvalues=//*[@label='txt_ttl_val']
