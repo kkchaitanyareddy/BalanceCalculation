@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "Value Transaction Calculation Test Automation Test Suite">
+      <test name ="Value Calculation Test cases">
+      <classes>
+       <class name = "com.value.calculation.testcases.LoginPageTest">
+       </class>
+      
+      
+      </classes>
+      
+      </test>
+
+
+
+</suite>
